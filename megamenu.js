@@ -1,3 +1,14 @@
+/*
+    - Simple jQuery mega menu.
+    - 2, 3 and 4 columns.
+    - Fully responsive.
+
+    - Hover delay included.
+
+    Copyright (c) 2013-2014, Justin He
+    Licensed under the MIT License.
+*/
+
 (function(){
 
 	//duplicate hover state for parent menu when dropdown.
